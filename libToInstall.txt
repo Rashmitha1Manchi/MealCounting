@@ -1,0 +1,15 @@
+pandas
+matplotlib
+openpyxl
+Flask
+flask-pymongo
+flask-cors
+flask-mail
+APScheduler
+python-barcode
+pillow
+werkzeug
+pymongo
+seaborn
+scikit-learn
+imbalanced-learn
